@@ -345,6 +345,9 @@ body.section-show .section.active{
 .divider-draft:after{
 	bottom:-6px;
 }
+.wrapper{
+	height: 100vh;
+}
 
 /*=======================================================================
 	Front Section
