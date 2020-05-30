@@ -227,7 +227,7 @@ body.section-show .section.active{
 	height:26px;
 	width:26px;
 	line-height:26px;
-	vertical-align:middle;
+	/* vertical-align:middle; */
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
 	-ms-transform:rotate(45deg);
@@ -472,7 +472,7 @@ body.section-show .transition-mask:before{
 	-webkit-transition:height .5s .3s ease, transform .5s .8s ease;
 	-moz-transition:height .5s .3s ease, transform .5s .8s ease;
 	transition:height .5s .3s ease, transform .5s .8s ease;
-	margin:50px auto;
+	margin:120px auto;
 	margin-bottom:0;
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
